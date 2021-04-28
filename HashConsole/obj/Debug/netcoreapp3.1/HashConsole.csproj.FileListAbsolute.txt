@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashConsole.exe
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashConsole.deps.json
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashConsole.runtimeconfig.json
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashConsole.runtimeconfig.dev.json
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashConsole.dll
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashConsole.pdb
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\user\source\repos\HashConsole\bin\Debug\netcoreapp3.1\HashTable.pdb
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.AssemblyInfo.cs
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.csproj.CopyComplete
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.dll
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.pdb
+C:\Users\user\source\repos\HashConsole\obj\Debug\netcoreapp3.1\HashConsole.genruntimeconfig.cache
